@@ -28,7 +28,7 @@ namespace PersonelApp
             Client.BaseAddress = new Uri("http://localhost:5153");
             var SerializedPersonel = JsonSerializer.Serialize(personel);
             StringContent strcontent = new StringContent(SerializedPersonel, Encoding.UTF8, "application/json");
-            await Client.PostAsync("api/PersonelAPI/", strcontent);
+            await Client.PostAsync("api/Personel/insertpersonel", strcontent);
         }
 
     }
