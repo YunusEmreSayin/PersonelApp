@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PersonelApp.Properties
+namespace PersonelApplication.Properties
 {
 
 

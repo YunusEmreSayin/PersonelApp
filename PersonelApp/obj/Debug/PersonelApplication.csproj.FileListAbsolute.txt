@@ -1,0 +1,14 @@
+C:\projects\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe.config
+C:\projects\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe
+C:\projects\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.pdb
+C:\projects\PersonelApplication\PersonelApplication\bin\Debug\Newtonsoft.Json.dll
+C:\projects\PersonelApplication\PersonelApplication\bin\Debug\Newtonsoft.Json.xml
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.AssemblyReference.cache
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.SuggestedBindingRedirects.cache
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Form1.resources
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Properties.Resources.resources
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.GenerateResource.cache
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.CoreCompileInputs.cache
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.CopyComplete
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.exe
+C:\projects\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.pdb
