@@ -1,0 +1,17 @@
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\PersonelAPI.exe
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\PersonelAPI.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\PersonelAPI.deps.json
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\PersonelAPI.runtimeconfig.json
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\PersonelAPI.pdb
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\serkon\Desktop\projeler\PersonelAPI\PersonelAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
